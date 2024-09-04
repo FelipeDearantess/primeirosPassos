@@ -1,0 +1,33 @@
+body{
+    background-color: #000000;
+}
+
+.principal__descricao {
+    color: #F6F6F6;
+    border: 5px solid #F6F6F6;
+}
+
+.cor__destaque {
+    color: #22d4fd;
+}
+
+.principal__texto {
+    color: #F6F6F6;
+}
+
+img {
+    border: 5px solid #F6F6F6;
+}
+
+a{
+    color: #F2AE30;
+    background-color: #024959;
+    border: 2px solid #593E25;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px;
+    margin-left: 20px;
+}
+
