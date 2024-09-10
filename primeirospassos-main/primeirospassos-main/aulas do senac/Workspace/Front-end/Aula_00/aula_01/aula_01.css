@@ -1,0 +1,17 @@
+*{
+    color: #fff;
+}
+
+.container{
+    display: grid;
+    background-color: #034AA6;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* grid-template-columns: 200px 100px 300px; */
+    /* grid-template-columns: 33% 33% 33%; */
+}
+.container div{
+    background-color: #594c04;
+    /* margin-top: 10px; */
+    gap: 10px;
+    min-height: 100px;
+}
