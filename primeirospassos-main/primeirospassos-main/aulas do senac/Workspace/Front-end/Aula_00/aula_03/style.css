@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #c4c97e;
+}
+.container {
+display: grid;
+background-color: #fff;
+gap: 20px;
+grid-template-columns: 1fr 1fr;
+height: 500px;
+place-items: stretch;
+}
+
+.container > div {
+    background-color: #706868;
+    height: 50px;
+    max-width: 50%;
+}
+
+.container > div > p{
+ color: #fff;   
+}
+.mihha_div{
+    place-self: center;
+}
