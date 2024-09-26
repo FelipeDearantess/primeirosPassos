@@ -1,3 +1,7 @@
+.divs-facilidades{
+width: 325px;
+
+}
 
 .div-novidades{
     width: 900px;
@@ -6,4 +10,7 @@
 .botao-lilas{
     background-color: #9353ff;
     color: #fff;
+}
+.verde-limao{
+    color: #daff01;
 }
