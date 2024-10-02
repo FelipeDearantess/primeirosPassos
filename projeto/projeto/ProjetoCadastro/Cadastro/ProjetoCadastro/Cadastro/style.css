@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/logo_atelie_claro.png);
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.Cadastre-se{
+    color: #dd81af;
+
+}
+
+
+.alinhamento {
+    padding-left: 15px;
+}
+
+.margin{
+    margin-top: 100px ;
+}
+
+.fw-lighter{
+    -webkit-text-fill-color: rgb(201, 212, 223);
+}
